@@ -28,6 +28,7 @@ The estimated annual average and the total CO2e emission reduction by the projec
 expected to be 1,971 tCO2e, whereas actual emission reduction achieved during the first CoU period
 shall be submitted as a part of first monitoring and verification.
 
+
 Since the project activity generates electricity through wind energy, a clean renewable energy source
 it will not cause any negative impact on the environment and thereby contributes to climate change
 mitigation efforts
